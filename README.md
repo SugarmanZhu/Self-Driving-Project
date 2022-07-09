@@ -1,5 +1,11 @@
 # Self-Driving Project
 
+I programmed a controller to provide longitudinal speed control (throttle and break) and lateral steering control.
+
+The controller successfully direct the vehicle to complete a race track in CARLA simulator.
+
+CarlaUE4Windows.zip and CarlaUE4Ubuntu.tar.gz can be downloaded from https://zhuxiaotan.xyz/self-driving-project/
+
 ## Installation and Run:
 
 ### Windows:
